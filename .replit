@@ -1,0 +1,2 @@
+run = 'npm --prefix ./jaygallery run dev'
+entrypoint = './jaygallery/pages/index.jsx'
